@@ -1,4 +1,4 @@
-input("How many doughnuts did you eat?: ")
+input ("How many doughnuts did you eat?: ")
 int(input("Enter a number: >= 2"))
 if value >= 2:
      print ("Gluttony is a sin.")  
